@@ -1,0 +1,8 @@
+2025-02-02 09:43:31,093 Worker rq:worker:0db78166a45a4316b5c9754293e17885 started with PID 41074, version 1.15.1
+2025-02-02 09:43:31,095 Subscribing to channel rq:pubsub:0db78166a45a4316b5c9754293e17885
+2025-02-02 09:43:31,111 *** Listening on workspaces-backcase_erp-frappe-frappe-bench:short, workspaces-backcase_erp-frappe-frappe-bench:default, workspaces-backcase_erp-frappe-frappe-bench:long...
+2025-02-02 09:43:31,116 Cleaning registries for queue: workspaces-backcase_erp-frappe-frappe-bench:short
+2025-02-02 09:43:31,128 Cleaning registries for queue: workspaces-backcase_erp-frappe-frappe-bench:default
+2025-02-02 09:43:31,133 Cleaning registries for queue: workspaces-backcase_erp-frappe-frappe-bench:long
+2025-02-02 09:46:14,352 Worker 0db78166a45a4316b5c9754293e17885 [PID 41074]: warm shut down requested
+2025-02-02 09:46:14,362 Unsubscribing from channel rq:pubsub:0db78166a45a4316b5c9754293e17885
